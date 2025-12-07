@@ -22,7 +22,6 @@ Both projects are Maven-based and include unit tests and console output.
   - [Implemented Analyses](#implemented-analyses)
   - [How to Build & Run](#how-to-build--run-1)
   - [Sample Output](#sample-output-1)
-- [Submission Notes](#submission-notes)
 
 ---
 
