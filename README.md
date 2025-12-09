@@ -72,7 +72,8 @@ cd assignment1
 mvn clean test
 mvn package
 
-java -cp target/assignment1-1.0-SNAPSHOT.jar com.example.producerconsumer.app.ProducerConsumerDemo
+java -cp target/producerconsumer-1.0-SNAPSHOT.jar org.project.producerconsumer.ProducerConsumerDemo
+
 ```
 
 ### Sample output
@@ -134,7 +135,7 @@ cd sales
 mvn clean test
 mvn package
 
-java -cp target/sales-1.0-SNAPSHOT.jar org.project.sales.app.SalesAnalysisApp src/main/resources/sales_data.csv
+java -cp target/sales-1.0-SNAPSHOT.jar org.project.sales.SalesAnalysisApp src/main/resources/sales_data.csv
 ```
 
 ### Sample Output
